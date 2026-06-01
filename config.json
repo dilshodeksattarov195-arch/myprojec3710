@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssync",
+        "uuid": 11385990,
+        "checksum": "ti00i4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
